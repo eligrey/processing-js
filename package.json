@@ -3,7 +3,7 @@
   "version": "1.4.4",
   "dependencies": {
     "argv": "~0.0.2",
-    "browserify": "~2.18.1",
+    "browserify": "~3.0.0",
     "express": "~3.3.3",
     "node-minify": "~0.7.3",
     "nunjucks": "~0.1.9",
