@@ -7,7 +7,7 @@
     "express": "~3.3.3",
     "node-minify": "~0.7.3",
     "nunjucks": "~0.1.9",
-    "open": "0.0.3"
+    "open": "6.0.0"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
