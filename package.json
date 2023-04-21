@@ -6,7 +6,7 @@
     "browserify": "~2.18.1",
     "express": "~3.3.3",
     "node-minify": "~0.7.3",
-    "nunjucks": "~0.1.9",
+    "nunjucks": "~3.2.4",
     "open": "0.0.3"
   },
   "devDependencies": {
